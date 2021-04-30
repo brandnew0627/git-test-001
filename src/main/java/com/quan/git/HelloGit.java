@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("version 2.0");
         System.out.println("hello~QUAN~");
         System.out.println("edit from github.");
+        System.out.println("hello gitee!");
     }
 }
